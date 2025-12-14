@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Santa",
+        "email": "Santa123@mail.com",
+        "password": "$2y$10$3wxvYcoDZhQKTYQtVq09p.fXQHvDQ7xfU5vCOl0qc2QzWWNbbK1Oy"
+    },
+    {
+        "name": "Santa",
+        "email": "Santa123@mail.com",
+        "password": "$2y$10$Neh7qzZ96Z\/EdIJNMJTla.mBMyjhSuCl1QLKM0WfLG\/dtCIhov0jS"
+    },
+    {
+        "name": "Banta",
+        "email": "Banata1@mail.com",
+        "password": "$2y$10$8ez.ynqpiXPSIdjtTp5YrOCZfRQOYwJjol9WCFfgJA.8BlE.64ESK"
+    }
+]
